@@ -54,6 +54,7 @@ figure {
     width: 100%;
     clear: both;
     margin-bottom: 25px;
+    background-color: #2a607c;
     background-image: url("/Images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
