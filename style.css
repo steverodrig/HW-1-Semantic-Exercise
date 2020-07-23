@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* style for header section */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,6 +51,8 @@ a {
     text-decoration: none; 
 }
 
+/* Main image style with background color fail safe */
+
 figure {
     height: 800px;
     width: 100%;
@@ -59,6 +63,8 @@ figure {
     background-size: cover;
     background-position: center;
 }
+
+/* Styling for left aligned boxes*/
 
 main {
     width: 75%;
@@ -98,6 +104,8 @@ main {
 p {
     font-size: 20px;
 }
+
+/* Styling for right aligned box */
 
 aside {
     margin-right: 20px;
