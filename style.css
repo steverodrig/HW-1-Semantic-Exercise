@@ -51,6 +51,7 @@ p {
 .hero {
     height: 500px;
     width: 100%;
+    clear: both;
     margin-bottom: 25px;
     background-image: url("/Images/digital-marketing-meeting.jpg");
     background-size: cover;
@@ -65,6 +66,12 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
+}
+
+.float-right1 {
+    float: right;
+    margin-left: 25px;
+    padding-top: 21px;
 }
 
 .content {
